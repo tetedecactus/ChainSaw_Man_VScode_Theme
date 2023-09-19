@@ -1,0 +1,36 @@
+{
+  "name": "chainsaw-man-colorful-theme",
+  "displayName": "ChainSaw Man Colorful Theme",
+  "description": "Theme base on ChainSaw Man Anime",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "publisher": "TeteDeCactus",
+  "author": {
+    "name": "OLabLac"
+  },
+  "repository": "https://github.com/tetedecactus/OnePiece-VScode-Theme",
+ "license": "MIT",
+ "homepage": "",
+ "keywords": [
+    "vs code dark thenme",
+    "anime theme",
+    "chainsaw man theme",
+    "manga chainsaw man",
+    "dark"
+ ],
+ "icons": "Denji.webp",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ChainSaw Man Colorful Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ChainSaw Man Colorful Theme-color-theme.json"
+      }
+    ]
+  }
+}
